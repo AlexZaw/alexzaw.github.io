@@ -217,6 +217,12 @@ a:hover {
   display: none;
 }
 
+.text {
+  margin: 15px auto;
+  max-width: 630px;
+  text-align: center;
+}
+
 header {
   background: url(../img/header_bg_big.jpg) no-repeat left, -webkit-linear-gradient(top, #cbd5d7, #b6c0c2 60%, #b8c3c7);
   background: url(../img/header_bg_big.jpg) no-repeat left, linear-gradient(to bottom, #cbd5d7, #b6c0c2 60%, #b8c3c7);
@@ -307,12 +313,6 @@ a.btn {
 
 .about_us {
   padding-top: 82px;
-  text-align: center;
-}
-
-.about_us .text {
-  margin: 15px auto;
-  max-width: 630px;
   text-align: center;
 }
 
